@@ -1,12 +1,13 @@
 ## Mutiny Tactics
 
 Mutiny Tactics é um jogo de ação e aventura com visão top-down. Lidere um grupo de piratas, enfrente inimigos, resgate companheiros e atravesse três fases até concluir a campanha.
-Requisitos
+
+## Requisitos
 
     Python 3
     Pygame
 
-Como executar
+## Como executar
 
 Na pasta raiz do repositório, instale o Pygame e inicie o jogo:
 
